@@ -38,6 +38,7 @@ This repository provides scripts to interact with LiveKit and multiple AI servic
    ```bash
    pip install livekit-agents[deepgram,openai,google,cartesia,silero,turn-detector]~=1.2.2
    pip install livekit-plugins-noise-cancellation~=0.2.5
+   pip install torch
    pip install python-dotenv
    ```
 
