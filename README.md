@@ -64,24 +64,28 @@ Run the following scripts to download required files and start the console for e
   ```bash
   python gpt.py download-files
   python gpt.py console
+  python gpt.py dev
   ```
 
 - **Gemini-2.5-flash**:
   ```bash
   python gemini.py download-files
   python gemini.py console
+  python gemini.py dev
   ```
 
 - **GPT-4o-realtime**:
   ```bash
   python gptrealtime.py download-files
   python gptrealtime.py console
+  python gptrealtime.py dev
   ```
 
 - **Gemini-2.5-flash-preview-native-audio-dialog**:
   ```bash
   python gemininative.py download-files
   python gemininative.py console
+  python gemininative.py dev
   ```
 
 ## Verify Installed Packages
