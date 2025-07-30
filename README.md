@@ -43,7 +43,7 @@ This repository provides scripts to interact with LiveKit and multiple AI servic
    ```
 
 4. **Create and configure the `.env` file**:
-   In the `livekit` directory, create a `.env` file with the following content:
+   In the `livekit` directory, create a `.env` file with the following content (google and gemini api keys are same):
    ```
    OPENAI_API_KEY=your_openai_api_key
    GEMINI_API_KEY=your_gemini_api_key
